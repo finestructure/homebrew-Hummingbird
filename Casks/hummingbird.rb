@@ -1,6 +1,6 @@
 cask 'hummingbird' do
-  version '3.0.0-12'
-  sha256 'd2798b34d333d86d0a928f6242dfc89480c54ab4da4f7c9f597ff0b86b5d84ba'
+  version '3.0.0-13'
+  sha256 '5eb6f3484ea2200d423893a485e4c5913849b69c5c080933be98905b5cd392dd'
 
   url "https://finestructure.co/s/Hummingbird-#{version.no_dots}.zip"
   name 'Hummingbird'
