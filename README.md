@@ -9,3 +9,9 @@ Usage:
 brew tap finestructure/Hummingbird
 brew cask install hummingbird
 ```
+
+For subsequent updates, run
+
+```
+brew cask upgrade hummingbird
+```
