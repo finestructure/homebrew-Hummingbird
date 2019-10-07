@@ -7,11 +7,11 @@ Usage:
 
 ```
 brew tap finestructure/Hummingbird
-brew cask install hummingbird
+brew cask install Hummingbird
 ```
 
 For subsequent updates, run
 
 ```
-brew cask upgrade hummingbird
+brew cask upgrade Hummingbird
 ```
